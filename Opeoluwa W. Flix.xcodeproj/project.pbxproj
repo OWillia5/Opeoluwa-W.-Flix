@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		61F560DA23FCCC5600929056 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F560D923FCCC5600929056 /* AppDelegate.swift */; };
 		61F560DC23FCCC5600929056 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F560DB23FCCC5600929056 /* SceneDelegate.swift */; };
-		61F560DE23FCCC5600929056 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F560DD23FCCC5600929056 /* ViewController.swift */; };
+		61F560DE23FCCC5600929056 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F560DD23FCCC5600929056 /* MoviesViewController.swift */; };
 		61F560E123FCCC5700929056 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61F560DF23FCCC5700929056 /* Main.storyboard */; };
 		61F560E323FCCC7500929056 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61F560E223FCCC7500929056 /* Assets.xcassets */; };
 		61F560E623FCCC7500929056 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61F560E423FCCC7500929056 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		61F560D623FCCC5600929056 /* Opeoluwa W. Flix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Opeoluwa W. Flix.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		61F560D923FCCC5600929056 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61F560DB23FCCC5600929056 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		61F560DD23FCCC5600929056 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		61F560DD23FCCC5600929056 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		61F560E023FCCC5700929056 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		61F560E223FCCC7500929056 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61F560E523FCCC7500929056 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				61F560D923FCCC5600929056 /* AppDelegate.swift */,
 				61F560DB23FCCC5600929056 /* SceneDelegate.swift */,
-				61F560DD23FCCC5600929056 /* ViewController.swift */,
+				61F560DD23FCCC5600929056 /* MoviesViewController.swift */,
 				61F560DF23FCCC5700929056 /* Main.storyboard */,
 				61F560E223FCCC7500929056 /* Assets.xcassets */,
 				61F560E423FCCC7500929056 /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61F560DE23FCCC5600929056 /* ViewController.swift in Sources */,
+				61F560DE23FCCC5600929056 /* MoviesViewController.swift in Sources */,
 				61F560DA23FCCC5600929056 /* AppDelegate.swift in Sources */,
 				61F560DC23FCCC5600929056 /* SceneDelegate.swift in Sources */,
 			);
